@@ -1,7 +1,7 @@
 
-### Hi there 👋 I'm Yasmine Gharbi!
+# Hi there 👋 I'm Yasmine Gharbi!
 
-I am an undergraduate ICT engineer that is passionate about DevSecOps and Cybersecurity enthusiast.
+I am an undergraduate ICT engineer  that is passionate about DevSecOps and Cybersecurity enthusiast.
 I love to be versitile so I don't shy away from learning new things as I go. 
 
 Here are some ideas to get you started:
